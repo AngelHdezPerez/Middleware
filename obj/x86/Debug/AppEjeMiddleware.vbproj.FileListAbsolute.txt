@@ -1,0 +1,10 @@
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\bin\Debug\AppEjeMiddleware.exe.config
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\bin\Debug\AppEjeMiddleware.exe
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\bin\Debug\AppEjeMiddleware.pdb
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\bin\Debug\AppEjeMiddleware.xml
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\obj\x86\Debug\AppEjeMiddleware.Form1.resources
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\obj\x86\Debug\AppEjeMiddleware.Resources.resources
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\obj\x86\Debug\AppEjeMiddleware.vbproj.GenerateResource.Cache
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\obj\x86\Debug\AppEjeMiddleware.exe
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\obj\x86\Debug\AppEjeMiddleware.xml
+C:\Users\angel\OneDrive\Documentos\Visual Studio 2010\Projects\AppEjeMiddleware\obj\x86\Debug\AppEjeMiddleware.pdb

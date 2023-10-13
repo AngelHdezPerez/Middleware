@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppEjeMiddleware
+</name>
+</assembly>
+<members>
+<member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.#ctor">
+	<remarks/>
+</member><member name="E:AppEjeMiddleware.WsEjeMiddleware.Service.FnAgregarPersonasCompleted">
+	<remarks/>
+</member><member name="E:AppEjeMiddleware.WsEjeMiddleware.Service.FnEliminarPersonasCompleted">
+	<remarks/>
+</member><member name="E:AppEjeMiddleware.WsEjeMiddleware.Service.FnListarRegistrosCompleted">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnAgregarPersonas(System.Int32,System.String,System.String,System.String,System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnAgregarPersonasAsync(System.Int32,System.String,System.String,System.String,System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnAgregarPersonasAsync(System.Int32,System.String,System.String,System.String,System.Int32,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnEliminarPersonas(System.Int32)">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnEliminarPersonasAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnEliminarPersonasAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnListarRegistros">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnListarRegistrosAsync">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.FnListarRegistrosAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AppEjeMiddleware.WsEjeMiddleware.Service.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.Service">
+	<remarks/>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.DSEjercicioMiddleware.PersonasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.DSEjercicioMiddleware.PersonasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.DSEjercicioMiddleware.PersonasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.DSEjercicioMiddleware">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.FnAgregarPersonasCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AppEjeMiddleware.WsEjeMiddleware.FnAgregarPersonasCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.FnAgregarPersonasCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.FnEliminarPersonasCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AppEjeMiddleware.WsEjeMiddleware.FnEliminarPersonasCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.FnEliminarPersonasCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.FnListarRegistrosCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AppEjeMiddleware.WsEjeMiddleware.FnListarRegistrosCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AppEjeMiddleware.WsEjeMiddleware.FnListarRegistrosCompletedEventArgs">
+	<remarks/>
+</member><member name="P:AppEjeMiddleware.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AppEjeMiddleware.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AppEjeMiddleware.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

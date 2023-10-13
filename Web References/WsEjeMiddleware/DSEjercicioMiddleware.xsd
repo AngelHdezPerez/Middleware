@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://tempuri.org/DSEjercicioMiddleware.xsd" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:mstns="http://tempuri.org/DSEjercicioMiddleware.xsd" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://tempuri.org/DSEjercicioMiddleware.xsd" id="DSEjercicioMiddleware" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element msdata:IsDataSet="true" msdata:UseCurrentLocale="true" name="DSEjercicioMiddleware">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Personas">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" type="xs:int" />
+              <xs:element name="Nombre">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApellidoPat">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApellidoMat">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Edad" type="xs:int" />
+              <xs:element name="NumeroTel">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique msdata:PrimaryKey="true" name="Constraint1">
+      <xs:selector xpath=".//mstns:Personas" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
